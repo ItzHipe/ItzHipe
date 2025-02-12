@@ -19,17 +19,6 @@
 <a>![Languages](https://skillicons.dev/icons?i=aws,blender,unity,notion,unreal,vscode,git,linux,gcp&theme=dark&perline=10)</a>
 <hr>
 
-
-<br/>  
-<div align="center">
- 
-## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@Hipe/30-nites-of-code)  
-![@Hipe #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Hipe)
-## Connect with me  
-
-</div>
-
 <div align="center">
 <a href="https://github.com/ItzHipe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
