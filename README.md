@@ -1,11 +1,8 @@
 <div align="center">
- 
- <div align="justify">
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=5865f2&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ Welcome+to+my+Profile+:)" align="middle" alt="Hello, Welcome to my profile :)">
-
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=5865f2&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+Welcome+to+my+Profile+:)" alt="Hello, Welcome to my profile :)">
   <hr>
 </div>
+
   <div align="center"></a>
      
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzHipe&show_icons=true&theme=discord_old_blurple&include_all_commits=True)](https://github.com/ItzHipe/github-readme-stats)
